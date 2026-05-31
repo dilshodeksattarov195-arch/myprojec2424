@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerfelete",
+        "uuid": 10697112,
+        "checksum": "yjzx7q"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
